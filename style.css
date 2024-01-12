@@ -1,0 +1,64 @@
+body
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkgray;
+}
+
+#red {
+    background: red;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}
+
+#green {
+    background: green;
+}
+
+#black {
+    background: black;
+}
+
+#pink {
+    background: pink;
+}
+
+#purple {
+    background: purple;
+}
+
+#white {
+    background: white;
+}
+
+#orange {
+    background: orange;
+}
+
+#brown {
+    background: brown;
+}
+
+#grey {
+    background: grey;
+}
+h3 {
+    -webkit-text-stroke-width: 0.3px; 
+    -webkit-text-stroke-color: darkgray;
+}
